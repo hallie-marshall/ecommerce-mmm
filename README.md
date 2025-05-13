@@ -10,7 +10,7 @@ The dataset includes daily spend and sales records for television, out-of-home (
 -	Forecast incremental revenue lift under an optimized budget allocation scenario.
 -	Model carry-over effects to optimize campaign timing and pacing.
   
-These insights guide strategic reallocation of marketing budgets to maximize overall profit. Channel elasticity distributions, optimal spend recommendations, and posterior diagnostic metrics are detailed below. [Recommendations](https://github.com/hallie-marshall/ecommerce-mmm/edit/main/README.md#recommendations) are provided for next steps. These include incorporating regional adjustments, building segment-specific allocations, and integrating offline promotional activities.
+These insights guide strategic reallocation of marketing budgets to maximize overall profit. Channel elasticity distributions, optimal spend recommendations, and posterior diagnostic metrics are detailed below. [Recommendations](https://github.com/hallie-marshall/ecommerce-mmm/main/README.md#recommendations) are provided for next steps. These include incorporating regional adjustments, building segment-specific allocations, and integrating offline promotional activities.
 
 ## Data Structure
 
