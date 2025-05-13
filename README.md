@@ -52,9 +52,16 @@ To maximize profit returns on marketing spend, total budgets should **increase b
 
 ## Insights
 
+ ![Channel Contribution vs. Budget Share](mmm_channelcontributionbycost.png)
+
+_This plot shows, for each marketing channel, how incremental revenue (contribution) grows as a function of its share of total budget. Solid lines mark the mean contribution curve, shaded areas represent the 94% highest-density interval, and vertical dashed lines indicate each channel’s current budget share._
+
+
 The project quantifies the revenue contribution of the five marketing channels using Bayesian Delayed-Saturation MMM. Optimized proportional spend of each channel with the current budget remaining flat, as well as budgets optimized for maximum profit, are listed below.
 
-[clustered bar chart]
+
+
+![Budget Proportion Comparison](mmm_budgetshares.png)
 
 *Channel: Original &rarr; Optimized Flat &rarr; Optimized Maximum*
 
@@ -97,8 +104,13 @@ OOH: 22.68  ( 0.88 – 86.34 )
 Print: 58.61  ( 1.35 – 280.32 )
 
 
+![Channel Profit Maximization](mmm_channelprofitbybudget.png)
 
-By optimizing the total budget based on channel profit, profits are maximized. Increasing the total budget to $1,912,121 produces an estimated additional profit of $2,395,435, resulting in an estimated total profit of $21,718,559. The **dollar proportions of budget per channel**, with updated ROAS, for an increased budget is:
+_This curve traces aggregate channel profit (contribution minus budget) as the overall marketing budget increases. Profit rises steeply at first, peaks at about $1.9 Million, and then plateaus._
+
+
+
+By optimizing the total budget based on channel profit, profits are maximized. Increasing the total budget to $1,912,121 produces an estimated additional profit of $2,395,435, resulting in an estimated total profit of $21,718,559. The **dollar proportions of budget per channel**, with updated ROAS, for an increased budget are:
 
 Social: $465,488 (est. ROAS: 10.11)
 
