@@ -144,9 +144,7 @@ These recommendations ensure continuous improvement and translate model insights
 
 -	Data was only used for US-based customers. Including foreign customer data may lead to differing results.
   
--	The dataset consists of 328 entries for daily spend, engagement and competitor benchmarks. Trends observed in this timeframe may not fully account for external factors beyond this window.
-  
--	Models do not account for external influences such as economic trends, competitor activity, or shifts in purchasing behavior.
+-	The dataset consists of 328 entries for daily spend, engagement, and competitor benchmarks. Trends observed in this timeframe may not fully account for external factors beyond this window.
 
 -	Adstock and saturation parameters assume consistent channel response patterns over time; significant creative or channel strategy changes may invalidate past estimates.
   
